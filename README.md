@@ -1,12 +1,3 @@
-<div align="center">
-
-<img src="./github-banner.png" alt="Mithun J - Aspiring Full Stack Developer" width="100%">
-
-</div>
-
-<br>
-
-<div align="center">
 # Hi, I'm Mithun J 👋
 
 ### Aspiring Full Stack Developer
